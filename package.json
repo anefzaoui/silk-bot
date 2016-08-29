@@ -1,0 +1,21 @@
+{
+  "silk": {},
+  "name": "camera-bot-client",
+  "dependencies": {
+    "any-promise": "^1.3.0",
+    "event-to-promise": "^0.7.0",
+    "fs": "0.0.1-security",
+    "is-absolute": "^0.2.5",
+    "is-relative": "^0.2.1",
+    "isexe": "^1.1.2",
+    "mz": "^2.4.0",
+    "object-assign": "^4.1.0",
+    "path": "^0.12.7",
+    "request": "^2.74.0",
+    "silk": "^0.17.1",
+    "thenify": "^3.2.0",
+    "thenify-all": "^1.6.0",
+    "url-join": "^1.1.0",
+    "which": "^1.2.10"
+  }
+}
